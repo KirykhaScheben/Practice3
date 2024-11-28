@@ -34,9 +34,7 @@ C:\Users\Student\source\repos\Airport\Airport\obj\Debug\Airport.RoutesForm.resou
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.csproj.AssemblyReference.cache
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.AirplanesForm.resources
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.Authorize.resources
-\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.FlightForm.resources
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.Properties.Resources.resources
-\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.RoutesForm.resources
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.csproj.GenerateResource.cache
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.csproj.CoreCompileInputs.cache
 \\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\УП 3\Пакеев\Airport\Airport\obj\Debug\Airport.csproj.Up2Date
